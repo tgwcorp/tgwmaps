@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>TGWcorp-Map</name>
+		<description><![CDATA[]]></description>
+		<Folder>
+			<name>Capa sin nombre</name>
+			<Placemark>
+				<name>Olleros 3151</name>
+				<description><![CDATA[<img src="https://lh5.googleusercontent.com/N89PcDKiTHHCwyC2hjpVHscNqJD36ZEomSStLG3Js-vV2gQOinfqdh_fXk-1jsssekkIWqdPaiB7i9nCWX2gpCRsAGBbwn4o0yEeuSHvXC8oPO-5hfpkQK0pEIfnnUmB" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh5.googleusercontent.com/N89PcDKiTHHCwyC2hjpVHscNqJD36ZEomSStLG3Js-vV2gQOinfqdh_fXk-1jsssekkIWqdPaiB7i9nCWX2gpCRsAGBbwn4o0yEeuSHvXC8oPO-5hfpkQK0pEIfnnUmB</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-58.4482481,-34.5778542,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lima 1261</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/wey4NKrrP8diB1tr-_WEhHVCCJ1WytF6zr-r25hDYjD0VeGeDKPws6SyY_FtT5k5y3t5ayRq8iTrTBnhbvUKdyp9RLT2u8t-iAE8B2fKaEkFui47mi-1isG78JvZTpXP" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/wey4NKrrP8diB1tr-_WEhHVCCJ1WytF6zr-r25hDYjD0VeGeDKPws6SyY_FtT5k5y3t5ayRq8iTrTBnhbvUKdyp9RLT2u8t-iAE8B2fKaEkFui47mi-1isG78JvZTpXP</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-58.3821734,-34.6235462,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>TGWcorp</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/VOTF74GcpMTZqsQnxgCHoXTjlU9MM-_gVcnbIWT9vEpKdfKcSMrZv3dXXWsUXmFNZxQm2Cu8hgTkJuBWcscuTKqpZuleHod7ENTi6BUBztLKbvSgHTb0XdNZ_cghUPU5" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-1899-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/VOTF74GcpMTZqsQnxgCHoXTjlU9MM-_gVcnbIWT9vEpKdfKcSMrZv3dXXWsUXmFNZxQm2Cu8hgTkJuBWcscuTKqpZuleHod7ENTi6BUBztLKbvSgHTb0XdNZ_cghUPU5</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-58.967024400000014,-34.42392460000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-1899-DB4436-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-1899-DB4436-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-1899-DB4436'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1899-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1899-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
